@@ -5,7 +5,7 @@ matplotlib==2.0.2
 mpi4py==2.0.0
 pyamg==3.2.1
 pyopengl==3.1.0
-pyside ; python_version == '2.7'
+pyside==1.2.4; python_version == '2.7'
 https://pymor.github.io/wheels/PySide-1.2.2-cp34-cp34m-linux_x86_64.whl ; python_version == '3.4'
 https://pymor.github.io/wheels/PySide-1.2.2-cp35-cp35m-linux_x86_64.whl ; python_version == '3.5'
 pytest>=3.0
