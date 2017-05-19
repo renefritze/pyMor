@@ -3,5 +3,5 @@
 # our own docutils.conf.
 sphinx>=1.5
 cython==0.25.2
-numpy
+numpy==1.12.1
 
