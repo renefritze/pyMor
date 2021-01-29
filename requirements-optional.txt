@@ -13,7 +13,7 @@ https://www.mpi-magdeburg.mpg.de/mpcsc/software/cmess/1.0.0/pymess-1.0.0-cp38-cp
 https://www.mpi-magdeburg.mpg.de/mpcsc/software/cmess/1.0.0/pymess-1.0.0-cp39-cp39-manylinux2014_x86_64.whl ; python_version == "3.9" and "linux" in sys_platform
 ipyparallel>=6.2.5
 ipython>=5.0
-ipywidgets
+ipywidgets==7.6.3
 jupyter_contrib_nbextensions
 jupyter_sphinx
 matplotlib
