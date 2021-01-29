@@ -5,7 +5,7 @@ PySide2!=5.15.2,!=5.15.2.*,!=5.11.*
 Qt.py>=1.2.4
 bash_kernel
 cython>=0.28
-diskcache
+diskcache==5.2.1
 gmsh
 https://www.mpi-magdeburg.mpg.de/mpcsc/software/cmess/1.0.0/pymess-1.0.0-cp36-cp36m-manylinux2014_x86_64.whl ; python_version == "3.6" and "linux" in sys_platform
 https://www.mpi-magdeburg.mpg.de/mpcsc/software/cmess/1.0.0/pymess-1.0.0-cp37-cp37m-manylinux2014_x86_64.whl ; python_version == "3.7" and "linux" in sys_platform
